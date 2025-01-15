@@ -1,5 +1,5 @@
 # Skin Cancer Detection using Custom CNN
-> A project to build a custom CNN model to accurately detect melanoma from skin images.
+A project to build a custom CNN model to accurately detect melanoma from skin images.
 
 ## Problem statement :  
 
@@ -26,17 +26,16 @@
 - The project demonstrates the potential of AI in medical diagnosis and the importance of handling class imbalances in medical datasets.
 
 ## Technologies Used
-- [Python v3.13.1 ](https://www.python.org/) : A high-level programming language known for its readability, flexibility, and broad ecosystem of libraries.
-- [Keras v3.5.0 ](https://keras.io/about/) : Keras is a deep learning API written in Python and capable of running on top of either JAX, TensorFlow, or PyTorch.
-- [Augmentor- v0.2.12 ](https://augmentor.readthedocs.io/en/stable/) : Augmentor is a Python package designed to aid the augmentation and artificial generation of image data for machine learning tasks. It is primarily a data augmentation tool, but will also incorporate basic image pre-processing functionality.
-- [Tensorflow v2.15.0 ](https://www.tensorflow.org/): TensorFlow makes it easy to create ML models that can run in any environment. Learn how to use the intuitive APIs through interactive code samples.
-- [Seaborn v0.13.2 ](https://seaborn.pydata.org/): Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
-- [Matplotlib v3.10 ](https://matplotlib.org/):  Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.  Matplotlib makes easy things easy and hard things possible.
-- [Numpy v2.2.0 ](https://numpy.org/): NumPy is an open source project that enables numerical computing with Python.
-- [Pandas v2.2.2](https://pandas.pydata.org/): pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
+- [Python](https://www.python.org/) - v3.13.1
+- [Keras](https://keras.io/about/) - v3.5.0
+- [Augmentor](https://augmentor.readthedocs.io/en/stable/) - v0.2.12
+- [Tensorflow](https://www.tensorflow.org/) - v2.15.0
+- [Seaborn](https://seaborn.pydata.org/) - v0.13.2
+- [Matplotlib](https://matplotlib.org/) - v3.10
+- [Numpy](https://numpy.org/) - v2.2.0
+- [Pandas](https://pandas.pydata.org/) -  v2.2.2
 
 ## Acknowledgements
-
 - This project was inspired by the IIITB and Upgrad challenge on skin lesion analysis towards melanoma detection.
 - This project was based on tutorials and guidelines provided by the IIITB and upgrad assignment.
 
